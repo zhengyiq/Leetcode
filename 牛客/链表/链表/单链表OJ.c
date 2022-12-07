@@ -1,3 +1,5 @@
+//#include <stdio.h>
+//#include <stdlib.h>
 //typedef struct ListNode {
 //	int val;
 //	struct ListNode* next;
@@ -39,7 +41,7 @@
 //int main(void)
 //{
 //
-//	int arr[7] = { 1,2,6,3,4,5,6 };
+//	int arr[] = { 1,2,6,3,4,5,6 };
 //	int sz = sizeof(arr) / sizeof(arr[0]);
 //	ListNode* head = CreatSList(arr, sz);
 //	return 0;
